@@ -1,0 +1,48 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300&display=swap');
+
+.Scan{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Outfit', sans-serif;
+    width: 200px;
+    text-align: center;
+    margin: 50px;
+    border: 2px black solid;
+    padding-left:8px;
+    padding-right: 15px;
+    padding-top: 8px;
+    border-radius: 10px;
+    border-color: white;
+    background-color: white;
+    justify-content: center;
+    margin-left: 700px;
+}
+.Scan img{
+    height: 250px;
+    width: 210px;
+    
+    border-radius: 5px;
+    
+    
+}
+.Scan p{
+    font-size: 15px;
+    font-weight: 700;
+    color: hsl(220,10%,80%);
+    margin-top: 0.5px;
+    
+    
+    
+}
+.Scan h3{
+    font-weight: 400 bold;
+    color: hsl(218,44%,22%)
+
+}
+body{
+    background-color: hsl(220,15%,90%);
+}
+.Scan p,h3{
+    
+}
